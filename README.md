@@ -91,6 +91,5 @@ The model was trained using YOLOv8 on a custom fire dataset.
 1. Clone the repository  
    ```bash
    git clone https://github.com/ali-haris/Fire-Detection-using-YOLOv8.git
-   cd fire-detection-app
 
 
